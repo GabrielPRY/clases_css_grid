@@ -1,0 +1,50 @@
+.body{
+    font-family: 'Lato', sans-serif;
+}
+.hero{
+    background: #23475b;
+    color: white;
+    padding: 32px 15px;
+}
+
+.title{
+    font-size: 2em;
+    font-weight: normal;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.form{
+    text-align: center;
+    background: rgba(255, 255, 255, .9);
+    padding: 1.5em;
+    border-radius: 10px;
+}
+
+.form input{
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #dbdbe2;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.form p{
+    font-size: 1.2em;
+    color: #3a3b3f;
+    margin-bottom: 1em;
+}
+
+.form button{
+    background: #98ca3f;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    font-size: 1em;
+    border-bottom: 5px solid #6d932b;
+    display: inline-block;
+}
